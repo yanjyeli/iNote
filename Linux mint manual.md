@@ -1,3 +1,35 @@
+
+
+# Programming Language
+
+## Rust
+[安装 Rust 环境](https://course.rs/first-try/installation.html)
+
+```
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+```
+
+[安装 C 语言编译器](https://blog.csdn.net/gx_56684/article/details/128376290)
+
+```
+sudo apt-get update
+sudo apt install build-essential gdb
+
+gcc --version 
+g++ --version
+gdb --version
+```
+
+# Q & A
+
+## sudo apt update
+[How to fix "E: The list of sources could not be read" error?](https://stackoverflow.com/questions/42410134/how-to-fix-e-the-list-of-sources-could-not-be-read-could-not-be-read-error)
+
+```
+ls /etc/apt/sources.list.d/
+sudo rm -r /etc/apt/sources.list.d/<list name>
+```
+
 # Softwares
 
 ## Fcitx 5
@@ -33,12 +65,3 @@ sudo systemctl enable v2raya.service
 软件配置链接：http://localhost:2017/
 管理员帐号重置命令：`sudo v2raya --reset-password`
 
-# Q & A
-
-## sudo apt update
-[How to fix "E: The list of sources could not be read" error?](https://stackoverflow.com/questions/42410134/how-to-fix-e-the-list-of-sources-could-not-be-read-could-not-be-read-error)
-
-```
-ls /etc/apt/sources.list.d/
-sudo rm -r /etc/apt/sources.list.d/<list name>
-```
