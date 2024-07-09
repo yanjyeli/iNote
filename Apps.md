@@ -16,6 +16,7 @@
 - [Google Drive](https://www.google.com/drive/)
 - [Inoreader](https://www.inoreader.com/)
 - [Internet Download Manager 俄罗斯大神 破解版](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html)
+- [Jane Reader for ePUB](https://janereader.com/#features)
 - [Listary](https://www.listary.com/)
 - [Logseq](https://logseq.com/)
 - [Notion](https://www.notion.so/)
