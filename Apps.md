@@ -19,10 +19,13 @@
 - [Jane Reader for ePUB](https://janereader.com/#features)
 - [Listary](https://www.listary.com/)
 - [Logseq](https://logseq.com/)
+- [MyComputerManager 删除顽固快捷方式](https://github.com/1357310795/MyComputerManager)
 - [Notion](https://www.notion.so/)
 - [Notion Calendar](https://www.notion.so/product/calendar)
 - [Obsidian](https://obsidian.md/)
+- [OFGB 删除 Win11 各处广告](https://github.com/zetaloop/OFGB)
 - [Rime](https://rime.im/download/) | [Rime 定製指南](https://github.com/rime/home/wiki/CustomizationGuide) | [教程 1](https://sspai.com/post/84373) | [教程 2](https://blog.mikelyou.com/2020/07/31/rime-input/) | [雾凇拼音](https://dvel.me/posts/rime-ice/) | [教程 1](https://sspai.com/post/89281) | [教程 2](https://sspai.com/post/90068)
+- [Shortwave for Gmail](https://www.shortwave.com/)
 - [Telegram](https://telegram.org/)
 - [TickTick](https://filecr.com/windows/ticktick-premium/)
 - [Total Commander](https://www.ghxi.com/totalcommanderpc.html)
@@ -31,3 +34,7 @@
 - [Workflowy](https://workflowy.com/)
 - [火绒安全](https://www.huorong.cn/)
 - [坚果云](https://www.jianguoyun.com/)
+
+https://hwv430.blogspot.com/2023/12/20-everything-windows.html
+
+本地软件总结
