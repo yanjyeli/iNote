@@ -30,6 +30,7 @@
 - [Listary](https://www.listary.com/)
 - [Logseq](https://logseq.com/)
 - [MyComputerManager 删除顽固快捷方式](https://github.com/1357310795/MyComputerManager)
+- [NanaZip](https://github.com/M2Team/NanaZip)
 - [Notion](https://www.notion.so/)
 - [Notion Calendar](https://www.notion.so/product/calendar)
 - [Nutstore 坚果云](https://www.jianguoyun.com/)
