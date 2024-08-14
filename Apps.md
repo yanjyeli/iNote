@@ -24,6 +24,7 @@
 - [Google Drive](https://www.google.com/drive/)
 - [Honeyview 图片查看器](https://www.bandisoft.com/honeyview/)
 - [Huorong Security 火绒安全](https://www.huorong.cn/)
+- [iMazing 2 拥有正版许可](https://imazing.com/download-v2)
 - [Inoreader](https://www.inoreader.com/)
 - [Internet Download Manager 俄罗斯大神 破解版](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html)
 - [KeePassXC Password Manager](https://keepassxc.org/)
