@@ -29,6 +29,7 @@
 - [Internet Download Manager 俄罗斯大神 破解版](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html)
 - [KeePassXC Password Manager](https://keepassxc.org/)
 - [Listary](https://www.listary.com/)
+- [LocalSend](https://localsend.org/)
 - [Logseq](https://logseq.com/)
 - [MyComputerManager 删除顽固快捷方式](https://github.com/1357310795/MyComputerManager)
 - [NanaZip](https://github.com/M2Team/NanaZip)
